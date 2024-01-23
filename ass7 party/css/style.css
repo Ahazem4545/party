@@ -1,0 +1,72 @@
+
+
+.img-home{
+    background-image: url(../img/group-people-dancing-disco.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.hover-icon a{
+    color: white;
+
+}
+.hover-icon a:hover{
+    color: #dd4b4a!important;
+
+}
+
+.drop-down{
+    background-color: #dd4b4a;
+   height: 60px;
+   color: white;
+}
+
+.join-us{
+    background-image: linear-gradient(#dd4a4abc , #dd4a4ab1),url(../img/banner_en.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 60vh;
+    background-color: #dd4b4a;
+}
+.time{
+    width: 200px;
+    height: 150px;
+    
+}
+.g-maile{
+    color: #dd4b4a;
+}
+
+.icon-contact{
+    width: 35px;
+    height: 35px;
+}
+.span-color{
+    color: #dd4b4a;
+}
+.bg-p{
+    background-color: rgba(128, 128, 128, 0.545);
+    
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: var(--background-color);
+    box-shadow: 5px 5px 5px #343434;
+
+  
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(146, 143, 143);
+    border-radius: 30px;
+   
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color: rgb(107, 106, 106);
+}
+
+::-webkit-scrollbar-corner{
+    background-color: #222;
+}
